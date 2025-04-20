@@ -22,7 +22,7 @@
 ---
 
 ### 📌 Featured Projects
-- [**Portfolio Website**](https://github.com/surajpxl/portfolio): A personal portfolio showcasing my skills, projects, and achievements.
+- [**Portfolio Website**](https://codexsuraj.netlify.app): A personal portfolio showcasing my skills, projects, and achievements.
 - [**E-Commerce Website**](https://github.com/surajpxl/e-commerce): A fully responsive e-commerce website built with HTML, CSS, and JavaScript.
 
 
