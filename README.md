@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills & Tools
 - **Languages**: HTML, CSS, JavaScript, Node.js
-- **Frameworks/Tools**: Express, MongoDB, Git, GitHub
+- **Frameworks/Tools**: React.js, Express, MongoDB, Git, GitHub
 - **Design**: Figma, Adobe XD
 
 ---
